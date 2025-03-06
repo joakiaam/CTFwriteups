@@ -27,4 +27,4 @@ The enctyption used used for the last code looks suspicius like the final flag, 
 ![CyberChef](./images/CyberChef.jpg)
 
 # Flag
-***CTFkom{W0w_d3t_v4r_m4ng3_st3g!}**
+**CTFkom{W0w_d3t_v4r_m4ng3_st3g!}**
