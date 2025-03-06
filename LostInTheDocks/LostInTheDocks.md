@@ -22,7 +22,7 @@ The location of that picture is marked on a map, where we can see it is close to
 
 ## Step 3
 I found the road by looking at Google Maps at different roads in the area.
-![RoadFound](./images/RoadFound.mov)
+![RoadFound](./images/RoadFound.gif)
 
 ## Step 4
 The task specifies that we need to find a hotel/camp, and there was one camp close to the road named *Gobi Ranch tourist camp*.
